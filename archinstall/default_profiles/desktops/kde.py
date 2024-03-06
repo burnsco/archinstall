@@ -20,7 +20,6 @@ class KdeProfile(XorgProfile):
 			"dolphin",
 			"ark",
 			"plasma-workspace",
-			"egl-wayland"
 		]
 
 	@property
